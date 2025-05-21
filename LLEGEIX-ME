@@ -1,0 +1,25 @@
+Instruccions executades:
+Apartat 1:
+
+git branch branca00
+git switch branca00
+git status
+Apartat 5:
+
+git switch main
+git status
+git log --oneline
+Apartat 7:
+
+git switch branca00
+(Comprovar contingut del fitxer amb Geany)
+
+Apartat 10b:
+
+git merge branca00
+Apartat 12:
+
+git push origin main
+Apartat 14a:
+
+git push origin branca01
